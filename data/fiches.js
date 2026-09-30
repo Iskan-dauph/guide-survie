@@ -66,6 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+{
+    titre: "Gardez le sourire",
+    categorie: "Bien-être",
+    texte: "Un beau sourire le matin ne fait de mal à personne, pensez-y.",
+    auteur: "Iskander"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
