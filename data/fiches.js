@@ -91,6 +91,12 @@ const FICHES = [
     texte: "Meme une partie avancée peut faire une grande difference avec le temps",
     auteur: "Firas"
   },
+{
+    titre: "Faites une pause",
+    categorie: "Bien-être",
+    texte: "Travailler sans s'arreter fatigue",
+    auteur: "Iskander"
+  },
 
 
 
