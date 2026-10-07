@@ -67,6 +67,12 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 {
+    titre: "Apprendre autrement",
+    categorie: "Astuces",
+    texte: "Organisez votre temps et avancez étape par étape pour mieux réussir.",
+    auteur: "Mariem"
+  },
+{
     titre: "Gardez le sourire",
     categorie: "Bien-être",
     texte: "Un beau sourire le matin ne fait de mal à personne, pensez-y.",
@@ -91,6 +97,13 @@ const FICHES = [
     texte: "Meme une partie avancée peut faire une grande difference avec le temps",
     auteur: "Firas"
   },
+{
+    titre: "Faites une pause",
+    categorie: "Bien-être",
+    texte: "Travailler sans s'arreter fatigue",
+    auteur: "Iskander"
+  },
+
 
 
 
