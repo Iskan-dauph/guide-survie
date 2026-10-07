@@ -79,7 +79,12 @@ const FICHES = [
     auteur: "Mariem"
   },
 
-
+{
+    titre: "J'aime vivre",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Elyes"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
