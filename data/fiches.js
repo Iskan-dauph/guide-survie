@@ -72,6 +72,14 @@ const FICHES = [
     texte: "Un beau sourire le matin ne fait de mal à personne, pensez-y.",
     auteur: "Iskander"
   },
+{
+    titre: "Commencez la journée du bon pied",
+    categorie: "Motivation",
+    texte: "Chaque matin est une nouvelle occasion de faire quelque chose de positif.",
+    auteur: "Mariem"
+  },
+
+
 
 
   // ===== FIN DE VOS FICHES =====
