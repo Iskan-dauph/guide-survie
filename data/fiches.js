@@ -85,6 +85,13 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Elyes"
   },
+  {
+    titre: "Un petit pas chaque jour",
+    categorie: "Conseils",
+    texte: "Meme une partie avancée peut faire une grande difference avec le temps",
+    auteur: "Firas"
+  },
+
 
 
   // ===== FIN DE VOS FICHES =====
