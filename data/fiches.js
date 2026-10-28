@@ -29,6 +29,20 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+{
+  titre: "Faire ses courses sans exploser son budget",
+  categorie: "Vie pratique",
+  texte: "Prépare une liste avant d'aller au supermarché et ne fais jamais tes courses le ventre vide. Tu achèteras seulement ce dont tu as besoin.",
+  auteur: "Iskander"
+},
+
+  {
+    titre: "Profiter des réductions étudiantes",
+    categorie: "Bons plans",
+    texte: "Avec ta carte étudiante, beaucoup de cinémas, musées et transports te font une réduction. Pense à demander à chaque fois, même quand ce n'est pas affiché.",
+    auteur: "Iskander"
+},
+
 
   {
     titre: "Le distributeur du deuxième",
