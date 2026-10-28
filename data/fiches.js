@@ -45,6 +45,21 @@ const FICHES = [
   },
 
   {
+    titre: ""Bien gérer son budget",
+    categorie: "Vie pratique",
+    texte: "Planifiez vos dépenses hebdomadaires afin de mieux maîtriser votre budget et d’éviter les dépenses inutiles.",
+    auteur: "Firas"
+  },
+
+  {
+    titre: "Profiter des réductions étudiantes",
+    categorie: "Bons plans",
+    texte: "Comparez les prix et renseignez-vous sur les réductions étudiantes pour économiser sur vos achats du quotidien.",
+    auteur: "Firas"
+  },
+
+
+  {
     titre: "Le premier rang n'est pas un piège",
     categorie: "Études",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
