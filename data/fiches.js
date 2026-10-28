@@ -42,6 +42,12 @@ const FICHES = [
     texte: "Avec ta carte étudiante, beaucoup de cinémas, musées et transports te font une réduction. Pense à demander à chaque fois, même quand ce n'est pas affiché.",
     auteur: "Iskander"
 },
+{
+  titre: "Cuisiner en avance pour la semaine",
+  categorie: "Vie pratique",
+  texte: "Le dimanche, prépare une grande quantité d'un plat simple (pâtes, riz, lentilles) et répartis-le dans des boîtes. Tu gagnes du temps et de l'argent pendant la semaine.",
+  auteur: "Iskander"
+},
 
 
   {
