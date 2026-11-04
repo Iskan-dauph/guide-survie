@@ -29,6 +29,7 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+<<<<<<< HEAD
 {
   titre: "Faire ses courses sans exploser son budget",
   categorie: "Vie pratique",
@@ -50,11 +51,27 @@ const FICHES = [
 },
 
 
+=======
+ 
+>>>>>>> origin/fiche-mariem
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
+  },
+  {
+    titre: "Bien organiser sa journée",
+    categorie: "Études",
+    texte: "Préparez vos affaires la veille pour gagner du temps le matin et commencer la journée sereinement.",
+    auteur: "Mariem"
+  },
+
+  {
+    titre: "Les bons plans pour économiser",
+    categorie: "Bons plans",
+    texte: "Comparez les prix avant d'acheter et profitez des réductions pour faire des économies au quotidien.",
+    auteur: "Mariem"
   },
 
   {
