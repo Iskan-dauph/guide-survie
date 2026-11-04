@@ -29,7 +29,7 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
-<<<<<<< HEAD
+
 {
   titre: "Faire ses courses sans exploser son budget",
   categorie: "Vie pratique",
@@ -51,9 +51,7 @@ const FICHES = [
 },
 
 
-=======
- 
->>>>>>> origin/fiche-mariem
+
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
@@ -82,7 +80,7 @@ const FICHES = [
   },
 
   {
-    titre: ""Bien gérer son budget",
+    titre: "Bien gérer son budget",
     categorie: "Vie pratique",
     texte: "Planifiez vos dépenses hebdomadaires afin de mieux maîtriser votre budget et d’éviter les dépenses inutiles.",
     auteur: "Firas"
