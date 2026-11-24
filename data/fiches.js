@@ -30,11 +30,46 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
+{
+  titre: "Faire ses courses sans exploser son budget",
+  categorie: "Vie pratique",
+  texte: "Prépare une liste avant d'aller au supermarché et ne fais jamais tes courses le ventre vide. Tu achèteras seulement ce dont tu as besoin.",
+  auteur: "Iskander"
+},
+
+  {
+    titre: "Profiter des réductions étudiantes",
+    categorie: "Bons plans",
+    texte: "Avec ta carte étudiante, beaucoup de cinémas, musées et transports te font une réduction. Pense à demander à chaque fois, même quand ce n'est pas affiché.",
+    auteur: "Iskander"
+},
+{
+  titre: "Cuisiner en avance pour la semaine",
+  categorie: "Vie pratique",
+  texte: "Le dimanche, prépare une grande quantité d'un plat simple (pâtes, riz, lentilles) et répartis-le dans des boîtes. Tu gagnes du temps et de l'argent pendant la semaine.",
+  auteur: "Iskander"
+},
+
+
+
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
+  },
+  {
+    titre: "Bien organiser sa journée",
+    categorie: "Études",
+    texte: "Préparez vos affaires la veille pour gagner du temps le matin et commencer la journée sereinement.",
+    auteur: "Mariem"
+  },
+
+  {
+    titre: "Les bons plans pour économiser",
+    categorie: "Bons plans",
+    texte: "Comparez les prix avant d'acheter et profitez des réductions pour faire des économies au quotidien.",
+    auteur: "Mariem"
   },
 
   {
@@ -43,6 +78,21 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+
+  {
+    titre: "Bien gérer son budget",
+    categorie: "Vie pratique",
+    texte: "Planifiez vos dépenses hebdomadaires afin de mieux maîtriser votre budget et d’éviter les dépenses inutiles.",
+    auteur: "Firas"
+  },
+
+  {
+    titre: "Profiter des réductions étudiantes",
+    categorie: "Bons plans",
+    texte: "Comparez les prix et renseignez-vous sur les réductions étudiantes pour économiser sur vos achats du quotidien.",
+    auteur: "Firas"
+  },
+
 
   {
     titre: "Le premier rang n'est pas un piège",
