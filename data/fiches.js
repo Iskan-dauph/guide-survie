@@ -47,7 +47,7 @@ const FICHES = [
 {
   titre: "Ne pas rater les bourses et aides",
   categorie: "Vie pratique",
-  texte: "Renseigne-toi dès la rentrée auprès du service de la scolarité : certaines aides ont une date limite courte. Garde toujours une copie de tes papiers (carte d'identité, relevé de notes) sur ton téléphone.",
+  texte: "Renseigne-toi dès la rentrée auprès du service de la scolarité : certaines aides ont une date limite courte. Garde toujours une copie de tes papiers (carte d'identité, relevé de notes) sur ton téléphone, contacter l'administration.",
   auteur: "Iskander"
 },
 
