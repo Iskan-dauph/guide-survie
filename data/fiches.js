@@ -25,7 +25,7 @@ const FICHES = [
 {
     titre: "Réviser sans tout remettre au lendemain",
     categorie: "Études",
-    texte: "Après chaque cours, prends 15 minutes pour revoir les notions importantes. Fais une petite fiche et teste-toi sans regarder tes notes : tu retiendras mieux et tu auras moins de travail avant les partiels.",
+    texte: Pour éviter d’accumuler les révisions, consacre 15 minutes après chaque cours à relire les points essentiels. Résume-les sur une fiche, puis essaie de les expliquer avec tes propres mots sans regarder tes notes.",
     auteur: "Mariem"
   },
 
