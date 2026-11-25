@@ -22,6 +22,13 @@
    ============================================================= */
 
 const FICHES = [
+{
+    titre: "Réviser sans tout remettre au lendemain",
+    categorie: "Études",
+    texte: "Pour éviter d’accumuler les révisions, consacre 15 minutes après chaque cours à relire les points essentiels. Résume-les sur une fiche, puis essaie de les expliquer avec tes propres mots sans regarder tes notes.",
+    auteur: "Mariem"
+  },
+
 
   {
     titre: "La salle de travail du premier",
