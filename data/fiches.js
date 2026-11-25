@@ -22,6 +22,13 @@
    ============================================================= */
 
 const FICHES = [
+{
+    titre: "Réviser sans tout remettre au lendemain",
+    categorie: "Études",
+    texte: "Après chaque cours, prends 15 minutes pour revoir les notions importantes. Fais une petite fiche et teste-toi sans regarder tes notes : tu retiendras mieux et tu auras moins de travail avant les partiels.",
+    auteur: "Mariem"
+  },
+
 
   {
     titre: "La salle de travail du premier",
