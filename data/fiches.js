@@ -42,7 +42,13 @@ const FICHES = [
   categorie: "Vie pratique",
   texte: "Prépare une liste avant d'aller au supermarché et ne fais jamais tes courses le ventre vide. Tu achèteras seulement ce dont tu as besoin.",
   auteur: "Iskander"
-},
+},   
+     {
+  titre: "Mieux organiser son temps au quotidien",
+  categorie: "Organisation",
+  texte: "Planifie tes tâches la veille et commence par les plus importantes. Accorde-toi des pauses  pour rester concentré et éviter de perdre du temps",
+  auteur: "Firas"
+    },
 
   {
     titre: "Profiter des réductions étudiantes",
