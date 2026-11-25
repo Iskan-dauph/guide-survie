@@ -39,7 +39,7 @@ const FICHES = [
      {
   titre: "Mieux organiser son temps au quotidien",
   categorie: "Organisation",
-  texte: "Planifie tes tâches la veille et commence par les plus importantes. Accorde-toi des pauses régulières pour rester concentré et éviter de perdre du temps",
+  texte: "Planifie tes tâches la veille et commence par les plus importantes. Accorde-toi des pauses  pour rester concentré et éviter de perdre du temps",
   auteur: "Firas"
     },
 
